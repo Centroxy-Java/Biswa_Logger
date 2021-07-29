@@ -22,7 +22,9 @@ Choose your Artifacts
        - spring dev tool
        - spring web
        
-
+Here i am usig `slf4j` for the logger implementation
+       
+For use logger create the object of logger by  `private static final Logger logger = LoggerFactory.getLogger(MyController.class);`
 
 # Development server
 
