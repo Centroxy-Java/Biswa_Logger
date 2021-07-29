@@ -1,0 +1,3 @@
+2021-07-20 15:52:21.794  INFO 13384 --- [restartedMain] c.e.d.AuthWithJwtSecureApiApplication    : Starting AuthWithJwtSecureApiApplication using Java 15.0.1 on DESKTOP-ACJ4HDV with PID 13384 (E:\Spring_Security\Auth_With_JWT_SECURE_API\target\classes started by pradh in E:\Spring_Security\Auth_With_JWT_SECURE_API)
+2021-07-20 15:52:21.794  INFO 13384 --- [restartedMain] c.e.d.AuthWithJwtSecureApiApplication    : No active profile set, falling back to default profiles: default
+2021-07-20 15:52:23.401  INFO 13384 --- [restartedMain] c.e.d.AuthWithJwtSecureApiApplication    : Started AuthWithJwtSecureApiApplication in 1.674 seconds (JVM running for 182.512)
